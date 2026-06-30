@@ -1,6 +1,5 @@
-# Second-Semester-Java-OOP-Encapsulation
-A modular Java application implementing robust Object-Oriented Programming (OOP) concepts, focusing on strict data encapsulation, access modifiers, and secure state validation.
-# Second-Semester-Java-Encapsulation-Systems
+
+# Second-Semester-Java-OOP-Encapsulation-Systems
 A dual-module Object-Oriented Java system implementing structured data validation, strict access control encapsulation, and deep-copy mechanics for healthcare records and temporal scheduling models.
 
 # Secure Data Management & Scheduling Systems
